@@ -15,3 +15,12 @@
 .heading-2 {
     font-size: 100px; background-color: white; margin-top: 10px; text-align: center;
 }
+
+.form-label {
+    width: 150px;
+    
+}
+
+.bg-secondary {
+    background-color: #e9ecef !important;
+}
